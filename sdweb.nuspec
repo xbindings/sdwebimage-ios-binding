@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Xamarin.SDWebImage</id>
+        <version>4.2.2</version>
+        <authors>XBindings</authors>
+        <owners>XBindings</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>SDWebImage for iOS</title>
+        <summary>Xamarin.iOS binding library - SDWebImage</summary>
+        <description>Xamarin.iOS binding library - SDWebImage</description>
+        <releaseNotes>SDWebImage v4.2.2</releaseNotes>
+        <iconUrl>https://github/xbindings/sdwebimage-ios-binding/tree/master/art/repo_header.png</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/xbindings/sdwebimage-ios-binding</projectUrl>
+        <copyright>Copyright (c) 2017 XBindings</copyright>
+        <tags>Xamarin.iOS, xamarin, xamarin-ios, sdwebimage</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Xbindings.SDWebImage.iOS/bin/Release/Xbindings.SDWebImage.iOS.dll" target="lib/Xamarin.iOS10/Xbindings.SDWebImage.iOS.dll" />
+    </files>
+</package>
